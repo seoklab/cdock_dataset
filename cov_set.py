@@ -34,11 +34,6 @@ from rdkit.Chem.rdMolDescriptors import (
 #   - only one covalent bond
 #   - not linked to peptide : check the seq_len of linked protein
 #   - exclude saccharide (linked residue name)
-# ============= CAUTION!!!!!!!!
-# ligand atom name이 CB 인 경우가 있음..!! #6p54, NZV, need to name linked protein atom name as CBL for cdock (not for AF3, Boltz)
-# peptide아니더라도 기다란 리간드에 100개짜리 protein이 붙어있는 경우 있음. 하지만 binding site는 다른 파트너 protein임. (eg. 6o6e)
-# <-- 이런 경우 linked chain과 binding site chain 다른지 확인 필요
-
 # save as json file
 #  - pdb code
 #  - deposit date
