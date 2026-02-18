@@ -1,0 +1,1213 @@
+[
+  {
+    "lig_id": "5c1u_GHV_C",
+    "rec_id": "5dpa_5F2_B",
+    "uniprot_id": "A9XG43",
+    "tanimoto": 0.4938271605,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5c1x_GHX_C",
+    "rec_id": "5dp8_5ED_B",
+    "uniprot_id": "A9XG43",
+    "tanimoto": 0.4875,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5c1y_GHY_B",
+    "rec_id": "5dp4_5E8_E",
+    "uniprot_id": "A9XG43",
+    "tanimoto": 0.4931506849,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5dp4_5E8_E",
+    "rec_id": "5c1y_GHY_B",
+    "uniprot_id": "A9XG43",
+    "tanimoto": 0.4931506849,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5dp5_5E9_B",
+    "rec_id": "5c1y_GHY_B",
+    "uniprot_id": "A9XG43",
+    "tanimoto": 0.3595505618,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5dp7_5EC_B",
+    "rec_id": "5c1u_GHV_C",
+    "uniprot_id": "A9XG43",
+    "tanimoto": 0.4705882353,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5dp8_5ED_B",
+    "rec_id": "5c1x_GHX_C",
+    "uniprot_id": "A9XG43",
+    "tanimoto": 0.4875,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5dp9_5EX_B",
+    "rec_id": "5c1x_GHX_C",
+    "uniprot_id": "A9XG43",
+    "tanimoto": 0.4875,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5dpa_5F2_B",
+    "rec_id": "5c1u_GHV_C",
+    "uniprot_id": "A9XG43",
+    "tanimoto": 0.4938271605,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4piq_3FS_C",
+    "rec_id": "4wx7_3VJ_E",
+    "uniprot_id": "B9A5C1",
+    "tanimoto": 0.3802816901,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4pis_3FU_C",
+    "rec_id": "4piq_3FS_C",
+    "uniprot_id": "B9A5C1",
+    "tanimoto": 0.3076923077,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4wx4_3VF_C",
+    "rec_id": "4pis_3FU_C",
+    "uniprot_id": "B9A5C1",
+    "tanimoto": 0.2857142857,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4wx7_3VJ_E",
+    "rec_id": "4piq_3FS_C",
+    "uniprot_id": "B9A5C1",
+    "tanimoto": 0.3802816901,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5v88_8ZD_B",
+    "rec_id": "6xom_H8V_C",
+    "uniprot_id": "D9IEF7",
+    "tanimoto": 0.1965811966,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4gs6_1FM_L",
+    "rec_id": "5e7r_5KW_B",
+    "uniprot_id": "O43318",
+    "tanimoto": 0.1063829787,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5e7r_5KW_B",
+    "rec_id": "4gs6_1FM_L",
+    "uniprot_id": "O43318",
+    "tanimoto": 0.1063829787,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5j7s_6H3_B",
+    "rec_id": "5jk3_6L4_B",
+    "uniprot_id": "O43318",
+    "tanimoto": 0.3924050633,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5jh6_T92_B",
+    "rec_id": "5jk3_6L4_B",
+    "uniprot_id": "O43318",
+    "tanimoto": 0.4675324675,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5jk3_6L4_B",
+    "rec_id": "5jh6_T92_B",
+    "uniprot_id": "O43318",
+    "tanimoto": 0.4675324675,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4bpv_OFH_G",
+    "rec_id": "4bs5_MG2_B",
+    "uniprot_id": "O70370",
+    "tanimoto": 0.3720930233,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4bqv_8PW_I",
+    "rec_id": "4bs5_MG2_B",
+    "uniprot_id": "O70370",
+    "tanimoto": 0.45,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4bs5_MG2_B",
+    "rec_id": "4bqv_8PW_I",
+    "uniprot_id": "O70370",
+    "tanimoto": 0.45,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4bs6_JG7_D",
+    "rec_id": "4bs5_MG2_B",
+    "uniprot_id": "O70370",
+    "tanimoto": 0.3595505618,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4bsq_QQV_B",
+    "rec_id": "4bs5_MG2_B",
+    "uniprot_id": "O70370",
+    "tanimoto": 0.25,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4mzo_2EW_I",
+    "rec_id": "4bs5_MG2_B",
+    "uniprot_id": "O70370",
+    "tanimoto": 0.2048192771,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4mzs_2EV_C",
+    "rec_id": "4bs6_JG7_D",
+    "uniprot_id": "O70370",
+    "tanimoto": 0.2376237624,
+    "source": "existing"
+  },
+  {
+    "lig_id": "2gh5_ELI_E",
+    "rec_id": "1xan_HXP_A",
+    "uniprot_id": "P00390",
+    "tanimoto": 0.2075471698,
+    "source": "additional"
+  },
+  {
+    "lig_id": "2hwo_RBS_C",
+    "rec_id": "6hve_GUW_C",
+    "uniprot_id": "P00523",
+    "tanimoto": 0.3846153846,
+    "source": "existing"
+  },
+  {
+    "lig_id": "3svv_VSP_C",
+    "rec_id": "6hve_GUW_C",
+    "uniprot_id": "P00523",
+    "tanimoto": 0.2023809524,
+    "source": "existing"
+  },
+  {
+    "lig_id": "3w2p_W2P_B",
+    "rec_id": "6tfv_N7Q_C",
+    "uniprot_id": "P00533",
+    "tanimoto": 0.2894736842,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4i24_1C9_C",
+    "rec_id": "7a6j_R2E_C",
+    "uniprot_id": "P00533",
+    "tanimoto": 0.4193548387,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5gnk_80U_B",
+    "rec_id": "6tfv_N7Q_C",
+    "uniprot_id": "P00533",
+    "tanimoto": 0.2333333333,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5hg5_633_B",
+    "rec_id": "5hg9_63A_B",
+    "uniprot_id": "P00533",
+    "tanimoto": 0.3655913978,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5hg7_630_B",
+    "rec_id": "5hg8_634_B",
+    "uniprot_id": "P00533",
+    "tanimoto": 0.3820224719,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5hg8_634_B",
+    "rec_id": "5hg7_630_B",
+    "uniprot_id": "P00533",
+    "tanimoto": 0.3820224719,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5hg9_63A_B",
+    "rec_id": "5hg5_633_B",
+    "uniprot_id": "P00533",
+    "tanimoto": 0.3655913978,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5j9z_6HJ_B",
+    "rec_id": "9nis_A1BYK_B",
+    "uniprot_id": "P00533",
+    "tanimoto": 0.2105263158,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5ug8_8BP_B",
+    "rec_id": "5hg9_63A_B",
+    "uniprot_id": "P00533",
+    "tanimoto": 0.3092783505,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5ugc_8BS_B",
+    "rec_id": "5hg7_630_B",
+    "uniprot_id": "P00533",
+    "tanimoto": 0.2450980392,
+    "source": "existing"
+  },
+  {
+    "lig_id": "1cvz_C48_B",
+    "rec_id": "9cky_A1AXI_C",
+    "uniprot_id": "P00784",
+    "tanimoto": 0.125,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4luc_20G_E",
+    "rec_id": "4m1s_21K_E",
+    "uniprot_id": "P01116",
+    "tanimoto": 0.4029850746,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4lv6_20H_E",
+    "rec_id": "4m1s_21K_E",
+    "uniprot_id": "P01116",
+    "tanimoto": 0.3676470588,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4lyf_21C_E",
+    "rec_id": "4m1o_21J_E",
+    "uniprot_id": "P01116",
+    "tanimoto": 0.4848484848,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4lyh_21F_F",
+    "rec_id": "4m1o_21J_E",
+    "uniprot_id": "P01116",
+    "tanimoto": 0.4857142857,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4m1o_21J_E",
+    "rec_id": "4lyh_21F_F",
+    "uniprot_id": "P01116",
+    "tanimoto": 0.4857142857,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4m1s_21K_E",
+    "rec_id": "4m1o_21J_E",
+    "uniprot_id": "P01116",
+    "tanimoto": 0.4776119403,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4m1t_21M_E",
+    "rec_id": "4m1y_21S_E",
+    "uniprot_id": "P01116",
+    "tanimoto": 0.4848484848,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4m1w_21R_E",
+    "rec_id": "4m1o_21J_E",
+    "uniprot_id": "P01116",
+    "tanimoto": 0.4848484848,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4m1y_21S_E",
+    "rec_id": "4m1t_21M_E",
+    "uniprot_id": "P01116",
+    "tanimoto": 0.4848484848,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4m22_22C_G",
+    "rec_id": "4m1s_21K_E",
+    "uniprot_id": "P01116",
+    "tanimoto": 0.3833333333,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5f2e_5UT_E",
+    "rec_id": "4lyf_21C_E",
+    "uniprot_id": "P01116",
+    "tanimoto": 0.4285714286,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5v6v_8YA_F",
+    "rec_id": "8dni_U4L_D",
+    "uniprot_id": "P01116",
+    "tanimoto": 0.3333333333,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4pe0_NQS_C",
+    "rec_id": "4pe4_REV_C",
+    "uniprot_id": "P02638",
+    "tanimoto": 0.1509433962,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4pe4_REV_C",
+    "rec_id": "4pe0_NQS_C",
+    "uniprot_id": "P02638",
+    "tanimoto": 0.1509433962,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4dcd_K36_C",
+    "rec_id": "1ra6_CAS_A",
+    "uniprot_id": "P03300",
+    "tanimoto": 0.1081081081,
+    "source": "additional"
+  },
+  {
+    "lig_id": "5fx6_6OY_B",
+    "rec_id": "6ffn_D8K_A",
+    "uniprot_id": "P04936",
+    "tanimoto": 0.2540983607,
+    "source": "additional"
+  },
+  {
+    "lig_id": "3sz9_I3E_N",
+    "rec_id": "3inj_EDO_A",
+    "uniprot_id": "P05091",
+    "tanimoto": 0.0833333333,
+    "source": "additional"
+  },
+  {
+    "lig_id": "2xu1_424_E",
+    "rec_id": "5f02_5T9_C",
+    "uniprot_id": "P07711",
+    "tanimoto": 0.4772727273,
+    "source": "existing"
+  },
+  {
+    "lig_id": "2xu4_DJT_B",
+    "rec_id": "5f02_5T9_C",
+    "uniprot_id": "P07711",
+    "tanimoto": 0.4456521739,
+    "source": "existing"
+  },
+  {
+    "lig_id": "2xu5_XU5_B",
+    "rec_id": "5f02_5T9_C",
+    "uniprot_id": "P07711",
+    "tanimoto": 0.4615384615,
+    "source": "existing"
+  },
+  {
+    "lig_id": "2yj2_YJ2_B",
+    "rec_id": "5f02_5T9_C",
+    "uniprot_id": "P07711",
+    "tanimoto": 0.4456521739,
+    "source": "existing"
+  },
+  {
+    "lig_id": "2yj8_YJ8_B",
+    "rec_id": "5f02_5T9_C",
+    "uniprot_id": "P07711",
+    "tanimoto": 0.4456521739,
+    "source": "existing"
+  },
+  {
+    "lig_id": "2yj9_YJ9_B",
+    "rec_id": "5f02_5T9_C",
+    "uniprot_id": "P07711",
+    "tanimoto": 0.4315789474,
+    "source": "existing"
+  },
+  {
+    "lig_id": "3hha_NOW_E",
+    "rec_id": "8ofa_TQ8_E",
+    "uniprot_id": "P07711",
+    "tanimoto": 0.2666666667,
+    "source": "existing"
+  },
+  {
+    "lig_id": "3hwn_BD3_E",
+    "rec_id": "3of8_I0Y_B",
+    "uniprot_id": "P07711",
+    "tanimoto": 0.2258064516,
+    "source": "existing"
+  },
+  {
+    "lig_id": "3of8_I0Y_B",
+    "rec_id": "8c77_TXH_E",
+    "uniprot_id": "P07711",
+    "tanimoto": 0.3243243243,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5f02_5T9_C",
+    "rec_id": "2xu1_424_E",
+    "uniprot_id": "P07711",
+    "tanimoto": 0.4772727273,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5maj_7KH_B",
+    "rec_id": "5mqy_GH4_B",
+    "uniprot_id": "P07711",
+    "tanimoto": 0.1875,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5mqy_GH4_B",
+    "rec_id": "5maj_7KH_B",
+    "uniprot_id": "P07711",
+    "tanimoto": 0.1875,
+    "source": "existing"
+  },
+  {
+    "lig_id": "2zu5_ZU5_B",
+    "rec_id": "3sn8_S89_B",
+    "uniprot_id": "P0C6U8",
+    "tanimoto": 0.2258064516,
+    "source": "existing"
+  },
+  {
+    "lig_id": "3sn8_S89_B",
+    "rec_id": "2zu5_ZU5_B",
+    "uniprot_id": "P0C6U8",
+    "tanimoto": 0.2258064516,
+    "source": "existing"
+  },
+  {
+    "lig_id": "3blt_PSY_B",
+    "rec_id": "3blu_PVS_B",
+    "uniprot_id": "P15273",
+    "tanimoto": 0.4642857143,
+    "source": "existing"
+  },
+  {
+    "lig_id": "3blu_PVS_B",
+    "rec_id": "3blt_PSY_B",
+    "uniprot_id": "P15273",
+    "tanimoto": 0.4642857143,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4xcu_40M_C",
+    "rec_id": "6jpe_BYU_B",
+    "uniprot_id": "P22455",
+    "tanimoto": 0.3777777778,
+    "source": "existing"
+  },
+  {
+    "lig_id": "1ms6_BLN_B",
+    "rec_id": "1nqc_C4P_B",
+    "uniprot_id": "P25774",
+    "tanimoto": 0.4324324324,
+    "source": "existing"
+  },
+  {
+    "lig_id": "1npz_C1P_C",
+    "rec_id": "1nqc_C4P_B",
+    "uniprot_id": "P25774",
+    "tanimoto": 0.4210526316,
+    "source": "existing"
+  },
+  {
+    "lig_id": "1nqc_C4P_B",
+    "rec_id": "2g6d_MQQ_B",
+    "uniprot_id": "P25774",
+    "tanimoto": 0.4507042254,
+    "source": "existing"
+  },
+  {
+    "lig_id": "2fq9_CRJ_C",
+    "rec_id": "2ft2_C28_C",
+    "uniprot_id": "P25774",
+    "tanimoto": 0.421686747,
+    "source": "existing"
+  },
+  {
+    "lig_id": "2fra_CRV_C",
+    "rec_id": "2fq9_CRJ_C",
+    "uniprot_id": "P25774",
+    "tanimoto": 0.3975903614,
+    "source": "existing"
+  },
+  {
+    "lig_id": "2frq_C71_C",
+    "rec_id": "2fra_CRV_C",
+    "uniprot_id": "P25774",
+    "tanimoto": 0.3536585366,
+    "source": "existing"
+  },
+  {
+    "lig_id": "2ft2_C28_C",
+    "rec_id": "2fq9_CRJ_C",
+    "uniprot_id": "P25774",
+    "tanimoto": 0.421686747,
+    "source": "existing"
+  },
+  {
+    "lig_id": "2fye_BCQ_B",
+    "rec_id": "1nqc_C4P_B",
+    "uniprot_id": "P25774",
+    "tanimoto": 0.3516483516,
+    "source": "existing"
+  },
+  {
+    "lig_id": "2g6d_MQQ_B",
+    "rec_id": "1nqc_C4P_B",
+    "uniprot_id": "P25774",
+    "tanimoto": 0.4507042254,
+    "source": "existing"
+  },
+  {
+    "lig_id": "2hxz_H7J_E",
+    "rec_id": "1npz_C1P_C",
+    "uniprot_id": "P25774",
+    "tanimoto": 0.1868131868,
+    "source": "existing"
+  },
+  {
+    "lig_id": "3n4c_EF3_C",
+    "rec_id": "3ovx_O64_C",
+    "uniprot_id": "P25774",
+    "tanimoto": 0.1379310345,
+    "source": "existing"
+  },
+  {
+    "lig_id": "3ovx_O64_C",
+    "rec_id": "1nqc_C4P_B",
+    "uniprot_id": "P25774",
+    "tanimoto": 0.2133333333,
+    "source": "existing"
+  },
+  {
+    "lig_id": "1aim_ZYA_B",
+    "rec_id": "1f2a_VS2_B",
+    "uniprot_id": "P25779",
+    "tanimoto": 0.484375,
+    "source": "existing"
+  },
+  {
+    "lig_id": "1ewl_R99_B",
+    "rec_id": "1ewp_0I5_B",
+    "uniprot_id": "P25779",
+    "tanimoto": 0.3823529412,
+    "source": "existing"
+  },
+  {
+    "lig_id": "1ewm_RL2_B",
+    "rec_id": "1ewp_0I5_B",
+    "uniprot_id": "P25779",
+    "tanimoto": 0.3823529412,
+    "source": "existing"
+  },
+  {
+    "lig_id": "1ewo_VSC_B",
+    "rec_id": "1f29_VS1_D",
+    "uniprot_id": "P25779",
+    "tanimoto": 0.4788732394,
+    "source": "existing"
+  },
+  {
+    "lig_id": "1ewp_0I5_B",
+    "rec_id": "1f2c_VS4_B",
+    "uniprot_id": "P25779",
+    "tanimoto": 0.3875,
+    "source": "existing"
+  },
+  {
+    "lig_id": "1f29_VS1_D",
+    "rec_id": "1f2a_VS2_B",
+    "uniprot_id": "P25779",
+    "tanimoto": 0.4927536232,
+    "source": "existing"
+  },
+  {
+    "lig_id": "1f2a_VS2_B",
+    "rec_id": "1f29_VS1_D",
+    "uniprot_id": "P25779",
+    "tanimoto": 0.4927536232,
+    "source": "existing"
+  },
+  {
+    "lig_id": "1f2b_VS3_B",
+    "rec_id": "1f2c_VS4_B",
+    "uniprot_id": "P25779",
+    "tanimoto": 0.4567901235,
+    "source": "existing"
+  },
+  {
+    "lig_id": "1f2c_VS4_B",
+    "rec_id": "1f2b_VS3_B",
+    "uniprot_id": "P25779",
+    "tanimoto": 0.4567901235,
+    "source": "existing"
+  },
+  {
+    "lig_id": "2aim_ZRA_B",
+    "rec_id": "1f2a_VS2_B",
+    "uniprot_id": "P25779",
+    "tanimoto": 0.3888888889,
+    "source": "existing"
+  },
+  {
+    "lig_id": "3hd3_25B_C",
+    "rec_id": "1f29_VS1_D",
+    "uniprot_id": "P25779",
+    "tanimoto": 0.3292682927,
+    "source": "existing"
+  },
+  {
+    "lig_id": "3i06_QL2_B",
+    "rec_id": "2aim_ZRA_B",
+    "uniprot_id": "P25779",
+    "tanimoto": 0.0804597701,
+    "source": "existing"
+  },
+  {
+    "lig_id": "2awz_5H_G",
+    "rec_id": "4ih6_1EP_A",
+    "uniprot_id": "P26663",
+    "tanimoto": 0.1641791045,
+    "source": "additional"
+  },
+  {
+    "lig_id": "2ax0_5X_F",
+    "rec_id": "2ax1_5EE_G",
+    "uniprot_id": "P26663",
+    "tanimoto": 0.3913043478,
+    "source": "existing"
+  },
+  {
+    "lig_id": "2ax1_5EE_G",
+    "rec_id": "2ax0_5X_F",
+    "uniprot_id": "P26663",
+    "tanimoto": 0.3913043478,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5ezs_E6D_B",
+    "rec_id": "8t8n_074_A",
+    "uniprot_id": "P27282",
+    "tanimoto": 0.2714285714,
+    "source": "additional"
+  },
+  {
+    "lig_id": "4zzm_CQ6_C",
+    "rec_id": "4zzo_CQ3_C",
+    "uniprot_id": "P28482",
+    "tanimoto": 0.4202898551,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4zzo_CQ3_C",
+    "rec_id": "4zzm_CQ6_C",
+    "uniprot_id": "P28482",
+    "tanimoto": 0.4202898551,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5lck_6TT_F",
+    "rec_id": "4zzo_CQ3_C",
+    "uniprot_id": "P28482",
+    "tanimoto": 0.4155844156,
+    "source": "existing"
+  },
+  {
+    "lig_id": "1bmq_MNO_C",
+    "rec_id": "1rwn_4QB_C",
+    "uniprot_id": "P29466",
+    "tanimoto": 0.2264150943,
+    "source": "existing"
+  },
+  {
+    "lig_id": "1rwn_4QB_C",
+    "rec_id": "1rwp_HQC_C",
+    "uniprot_id": "P29466",
+    "tanimoto": 0.3804347826,
+    "source": "existing"
+  },
+  {
+    "lig_id": "1rwp_HQC_C",
+    "rec_id": "1rwn_4QB_C",
+    "uniprot_id": "P29466",
+    "tanimoto": 0.3804347826,
+    "source": "existing"
+  },
+  {
+    "lig_id": "1rwx_YBH_C",
+    "rec_id": "1bmq_MNO_C",
+    "uniprot_id": "P29466",
+    "tanimoto": 0.2252252252,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4gmx_K85_G",
+    "rec_id": "6xjs_V6A_H",
+    "uniprot_id": "P30822",
+    "tanimoto": 0.4852941176,
+    "source": "existing"
+  },
+  {
+    "lig_id": "3szb_I1E_F",
+    "rec_id": "4l1o_1VL_C",
+    "uniprot_id": "P30838",
+    "tanimoto": 0.1403508772,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4l1o_1VL_C",
+    "rec_id": "3szb_I1E_F",
+    "uniprot_id": "P30838",
+    "tanimoto": 0.1403508772,
+    "source": "existing"
+  },
+  {
+    "lig_id": "3b0r_GW9_C",
+    "rec_id": "6ijs_A9F_C",
+    "uniprot_id": "P37231",
+    "tanimoto": 0.125,
+    "source": "existing"
+  },
+  {
+    "lig_id": "1re1_NA3_C",
+    "rec_id": "1nms_161_C",
+    "uniprot_id": "P42574",
+    "tanimoto": 0.2394366197,
+    "source": "existing"
+  },
+  {
+    "lig_id": "1rhj_PZN_E",
+    "rec_id": "2xyg_TQ8_C",
+    "uniprot_id": "P42574",
+    "tanimoto": 0.1515151515,
+    "source": "existing"
+  },
+  {
+    "lig_id": "1rhm_NA4_E",
+    "rec_id": "1nms_161_C",
+    "uniprot_id": "P42574",
+    "tanimoto": 0.2739726027,
+    "source": "existing"
+  },
+  {
+    "lig_id": "2xyg_TQ8_C",
+    "rec_id": "2xyp_XVE_C",
+    "uniprot_id": "P42574",
+    "tanimoto": 0.48,
+    "source": "existing"
+  },
+  {
+    "lig_id": "2xyp_XVE_C",
+    "rec_id": "2xyg_TQ8_C",
+    "uniprot_id": "P42574",
+    "tanimoto": 0.48,
+    "source": "existing"
+  },
+  {
+    "lig_id": "3h0e_H0E_C",
+    "rec_id": "2xyg_TQ8_C",
+    "uniprot_id": "P42574",
+    "tanimoto": 0.1609195402,
+    "source": "existing"
+  },
+  {
+    "lig_id": "1au3_PCM_B",
+    "rec_id": "1nlj_2CA_C",
+    "uniprot_id": "P43235",
+    "tanimoto": 0.3820224719,
+    "source": "existing"
+  },
+  {
+    "lig_id": "1au4_INP_B",
+    "rec_id": "1nlj_2CA_C",
+    "uniprot_id": "P43235",
+    "tanimoto": 0.3571428571,
+    "source": "existing"
+  },
+  {
+    "lig_id": "1bgo_I10_B",
+    "rec_id": "1nlj_2CA_C",
+    "uniprot_id": "P43235",
+    "tanimoto": 0.2989690722,
+    "source": "existing"
+  },
+  {
+    "lig_id": "1mem_0D6_B",
+    "rec_id": "1au3_PCM_B",
+    "uniprot_id": "P43235",
+    "tanimoto": 0.3456790123,
+    "source": "existing"
+  },
+  {
+    "lig_id": "1nlj_2CA_C",
+    "rec_id": "1au3_PCM_B",
+    "uniprot_id": "P43235",
+    "tanimoto": 0.3820224719,
+    "source": "existing"
+  },
+  {
+    "lig_id": "1q6k_TCO_C",
+    "rec_id": "7qbl_A0U_B",
+    "uniprot_id": "P43235",
+    "tanimoto": 0.2333333333,
+    "source": "existing"
+  },
+  {
+    "lig_id": "1tu6_FSP_E",
+    "rec_id": "2auz_CT2_E",
+    "uniprot_id": "P43235",
+    "tanimoto": 0.3170731707,
+    "source": "existing"
+  },
+  {
+    "lig_id": "1u9v_IHE_B",
+    "rec_id": "1u9w_IHI_B",
+    "uniprot_id": "P43235",
+    "tanimoto": 0.3658536585,
+    "source": "existing"
+  },
+  {
+    "lig_id": "1u9w_IHI_B",
+    "rec_id": "1u9v_IHE_B",
+    "uniprot_id": "P43235",
+    "tanimoto": 0.3658536585,
+    "source": "existing"
+  },
+  {
+    "lig_id": "1yk7_NBL_B",
+    "rec_id": "1mem_0D6_B",
+    "uniprot_id": "P43235",
+    "tanimoto": 0.3373493976,
+    "source": "existing"
+  },
+  {
+    "lig_id": "1yt7_3FC_D",
+    "rec_id": "1tu6_FSP_E",
+    "uniprot_id": "P43235",
+    "tanimoto": 0.2830188679,
+    "source": "existing"
+  },
+  {
+    "lig_id": "2aux_CT1_B",
+    "rec_id": "1au3_PCM_B",
+    "uniprot_id": "P43235",
+    "tanimoto": 0.2666666667,
+    "source": "existing"
+  },
+  {
+    "lig_id": "2auz_CT2_E",
+    "rec_id": "1tu6_FSP_E",
+    "uniprot_id": "P43235",
+    "tanimoto": 0.3170731707,
+    "source": "existing"
+  },
+  {
+    "lig_id": "2bdl_4PR_B",
+    "rec_id": "2aux_CT1_B",
+    "uniprot_id": "P43235",
+    "tanimoto": 0.2637362637,
+    "source": "existing"
+  },
+  {
+    "lig_id": "2r6n_CKE_B",
+    "rec_id": "1u9v_IHE_B",
+    "uniprot_id": "P43235",
+    "tanimoto": 0.2409638554,
+    "source": "existing"
+  },
+  {
+    "lig_id": "3kw9_ORG_B",
+    "rec_id": "1u9v_IHE_B",
+    "uniprot_id": "P43235",
+    "tanimoto": 0.3484848485,
+    "source": "existing"
+  },
+  {
+    "lig_id": "3kwz_KWZ_H",
+    "rec_id": "3o1g_O75_D",
+    "uniprot_id": "P43235",
+    "tanimoto": 0.3875,
+    "source": "existing"
+  },
+  {
+    "lig_id": "3o1g_O75_D",
+    "rec_id": "3kwz_KWZ_H",
+    "uniprot_id": "P43235",
+    "tanimoto": 0.3875,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4dmx_0LB_B",
+    "rec_id": "2r6n_CKE_B",
+    "uniprot_id": "P43235",
+    "tanimoto": 0.2317073171,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4dmy_0LC_C",
+    "rec_id": "3kw9_ORG_B",
+    "uniprot_id": "P43235",
+    "tanimoto": 0.1785714286,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4x6j_3Y2_H",
+    "rec_id": "2auz_CT2_E",
+    "uniprot_id": "P43235",
+    "tanimoto": 0.1794871795,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5tdi_7AS_B",
+    "rec_id": "1bgo_I10_B",
+    "uniprot_id": "P43235",
+    "tanimoto": 0.2,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5c91_4YU_B",
+    "rec_id": "9h9t_A1ITT_B",
+    "uniprot_id": "P46934",
+    "tanimoto": 0.1666666667,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4qps_37Q_C",
+    "rec_id": "5ttv_7KX_B",
+    "uniprot_id": "P52333",
+    "tanimoto": 0.1875,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5lwn_79S_J",
+    "rec_id": "5ttu_7KV_B",
+    "uniprot_id": "P52333",
+    "tanimoto": 0.2795698925,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5toz_7H4_B",
+    "rec_id": "5ttu_7KV_B",
+    "uniprot_id": "P52333",
+    "tanimoto": 0.4696969697,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5tts_7KU_B",
+    "rec_id": "5ttv_7KX_B",
+    "uniprot_id": "P52333",
+    "tanimoto": 0.3582089552,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5ttu_7KV_B",
+    "rec_id": "5toz_7H4_B",
+    "uniprot_id": "P52333",
+    "tanimoto": 0.4696969697,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5ttv_7KX_B",
+    "rec_id": "5toz_7H4_B",
+    "uniprot_id": "P52333",
+    "tanimoto": 0.3787878788,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4cdc_6AO_N",
+    "rec_id": "4cde_U6B_I",
+    "uniprot_id": "P53634",
+    "tanimoto": 0.4262295082,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4cdd_GDI_J",
+    "rec_id": "4cdc_6AO_N",
+    "uniprot_id": "P53634",
+    "tanimoto": 0.4126984127,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4cde_U6B_I",
+    "rec_id": "4cdc_6AO_N",
+    "uniprot_id": "P53634",
+    "tanimoto": 0.4262295082,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4cdf_W2C_I",
+    "rec_id": "4cdc_6AO_N",
+    "uniprot_id": "P53634",
+    "tanimoto": 0.3787878788,
+    "source": "existing"
+  },
+  {
+    "lig_id": "2alv_CY6_B",
+    "rec_id": "2gx4_NOL_B",
+    "uniprot_id": "P59641",
+    "tanimoto": 0.2719298246,
+    "source": "existing"
+  },
+  {
+    "lig_id": "2amd_9IN_C",
+    "rec_id": "2gx4_NOL_B",
+    "uniprot_id": "P59641",
+    "tanimoto": 0.3428571429,
+    "source": "existing"
+  },
+  {
+    "lig_id": "2gx4_NOL_B",
+    "rec_id": "2amd_9IN_C",
+    "uniprot_id": "P59641",
+    "tanimoto": 0.3428571429,
+    "source": "existing"
+  },
+  {
+    "lig_id": "3c9w_HMY_C",
+    "rec_id": "8qr3_WNC_F",
+    "uniprot_id": "P63086",
+    "tanimoto": 0.3287671233,
+    "source": "existing"
+  },
+  {
+    "lig_id": "2g8e_0M6_D",
+    "rec_id": "2r9f_K2Z_G",
+    "uniprot_id": "P97571",
+    "tanimoto": 0.2875,
+    "source": "existing"
+  },
+  {
+    "lig_id": "2r9f_K2Z_G",
+    "rec_id": "2g8e_0M6_D",
+    "uniprot_id": "P97571",
+    "tanimoto": 0.2875,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5hze_E62_B",
+    "rec_id": "3zlw_MT8_A",
+    "uniprot_id": "Q02750",
+    "tanimoto": 0.1168831169,
+    "source": "additional"
+  },
+  {
+    "lig_id": "4yhf_4C9_C",
+    "rec_id": "5p9m_7GB_B",
+    "uniprot_id": "Q06187",
+    "tanimoto": 0.381443299,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5j87_N42_E",
+    "rec_id": "6tfp_N6Z_G",
+    "uniprot_id": "Q06187",
+    "tanimoto": 0.1587301587,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5p9j_8E8_B",
+    "rec_id": "5p9m_7GB_B",
+    "uniprot_id": "Q06187",
+    "tanimoto": 0.4302325581,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5p9k_7G8_B",
+    "rec_id": "7r61_2IJ_B",
+    "uniprot_id": "Q06187",
+    "tanimoto": 0.2,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5p9m_7GB_B",
+    "rec_id": "5p9j_8E8_B",
+    "uniprot_id": "Q06187",
+    "tanimoto": 0.4302325581,
+    "source": "existing"
+  },
+  {
+    "lig_id": "3t9t_IAQ_B",
+    "rec_id": "4hcu_13L_B",
+    "uniprot_id": "Q08881",
+    "tanimoto": 0.1147540984,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4hcu_13L_B",
+    "rec_id": "3t9t_IAQ_B",
+    "uniprot_id": "Q08881",
+    "tanimoto": 0.1147540984,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4hcv_13J_B",
+    "rec_id": "3t9t_IAQ_B",
+    "uniprot_id": "Q08881",
+    "tanimoto": 0.1147540984,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5daf_58E_B",
+    "rec_id": "9ety_A1H7T_C",
+    "uniprot_id": "Q14145",
+    "tanimoto": 0.191011236,
+    "source": "existing"
+  },
+  {
+    "lig_id": "4yrt_781_C",
+    "rec_id": "4yrs_4JS_A",
+    "uniprot_id": "Q4DA54",
+    "tanimoto": 0.5,
+    "source": "additional"
+  },
+  {
+    "lig_id": "2xm7_34H_B",
+    "rec_id": "2xm5_FMT_A",
+    "uniprot_id": "Q8GHB2",
+    "tanimoto": 0.0740740741,
+    "source": "additional"
+  },
+  {
+    "lig_id": "2dw5_BFB_J",
+    "rec_id": "5n0y_8FQ_H",
+    "uniprot_id": "Q9UM07",
+    "tanimoto": 0.2333333333,
+    "source": "existing"
+  },
+  {
+    "lig_id": "3b1u_YFF_B",
+    "rec_id": "5n0y_8FQ_H",
+    "uniprot_id": "Q9UM07",
+    "tanimoto": 0.3488372093,
+    "source": "existing"
+  },
+  {
+    "lig_id": "5n0y_8FQ_H",
+    "rec_id": "3b1u_YFF_B",
+    "uniprot_id": "Q9UM07",
+    "tanimoto": 0.3488372093,
+    "source": "existing"
+  }
+]
